@@ -1,3 +1,5 @@
+# Este projeto foi desenvolvido com base no tutorial "Let's code a SNAKE GAME in python!" de Bro Code no YouTube. 
+
 from tkinter import *
 import random
 
